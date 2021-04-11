@@ -1,0 +1,9 @@
+.header{
+    text-align: center
+}
+
+.btnaction{
+    display: flex;
+    flex-direction : column;
+    justify-content : flex-end;
+}
